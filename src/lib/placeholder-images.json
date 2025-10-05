@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "car1",
+      "description": "A modern silver sedan parked in a city.",
+      "imageUrl": "https://images.unsplash.com/photo-1758822054256-01802e621172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzaWx2ZXIlMjBzZWRhbnxlbnwwfHx8fDE3NTk2NTQ2NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver sedan"
+    },
+    {
+      "id": "car2",
+      "description": "A rugged red SUV on a mountain road.",
+      "imageUrl": "https://images.unsplash.com/photo-1602596758966-4e40df56ae25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVkJTIwc3V2fGVufDB8fHx8MTc1OTY2NDQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red suv"
+    },
+    {
+      "id": "car3",
+      "description": "A classic blue truck in a rural setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1565174408946-a7a8c16a3933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Ymx1ZSUyMHRydWNrfGVufDB8fHx8MTc1OTY1NDY1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue truck"
+    },
+    {
+      "id": "car4",
+      "description": "A compact white hatchback in a parking lot.",
+      "imageUrl": "https://images.unsplash.com/photo-1729783458306-3615ee09ecd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMGhhdGNoYmFja3xlbnwwfHx8fDE3NTk2NTYzNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white hatchback"
+    },
+    {
+      "id": "car5",
+      "description": "A luxury black sedan at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1734299383414-b61533630d1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxibGFjayUyMHNlZGFufGVufDB8fHx8MTc1OTY1OTIyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black sedan"
+    }
+  ]
 }
